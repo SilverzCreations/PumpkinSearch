@@ -52,9 +52,9 @@ body{
 .search-bar button{
     border: none;
     border-radius: 50%;
-    width: 60px;
+    width: 25px;
     height: 60px;
-    background: #36303d;
+    background: transparent;
     cursor: pointer;
     min-hight: 60px;
 }
