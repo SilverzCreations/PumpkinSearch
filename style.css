@@ -45,6 +45,10 @@ body{
     
 }
 
+::placeholder{
+    color:606060;
+}
+
 
 .search-bar button img{
     width: 25px;
