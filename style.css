@@ -34,7 +34,6 @@ body{
 
 .search-bar input{
     background: transparent;
-    flex: 1;
     border: none;
     outline: none;
     padding: 24px 20px;
