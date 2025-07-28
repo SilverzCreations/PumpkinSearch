@@ -56,4 +56,6 @@ body{
     height: 60px;
     background: #36303d;
     cursor: pointer;
+    min-width: 100%;
+    min-hight: 100%;
 }
